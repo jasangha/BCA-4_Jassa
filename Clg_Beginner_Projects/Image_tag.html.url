@@ -1,0 +1,10 @@
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- The loading attribute specifies whether a browser should load an image immediately or to defer loading of off-screen images until for example the user scrolls near them.-->
+    <img src="India.jpg" alt="Boy In Phillaur" width="500" height="600" sizes="100" loading="lazy">
+</body>
+
+</html>

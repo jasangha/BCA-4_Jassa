@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+    <h3>Unordered List:</h3>
+    <ul>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ul>
+    <h3>Ordered List:</h3>
+    <ol>
+        <li>Coffee</li>
+        <li>Tea</li>
+        <li>Milk</li>
+    </ol>
+    <h3>Description List:</h3>
+    <dl>
+        <dt>Coffee</dt>
+        <dd>
+            <font size="1.5">- black hot drink</font>
+        </dd>
+        <dt>Milk</dt>
+        <dd>
+            <font size="1.5">- white cold drink</font>
+        </dd>
+    </dl>
+</body>
+
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Document</title>
+</head>
+
+<body>
+
+    <table align="center" border="4px">
+        <tr>
+            <th>
+                Names
+            </th>
+            <th>
+                Rollno
+            </th>
+            <th>
+                Seniority
+            </th>
+        </tr>
+        <tr>
+            <td>Jass</td>
+            <td>3251</td>
+            <td>Top</td>
+        </tr>
+        <tr>
+            <td>Mussu</td>
+            <td>3201</td>
+            <td>Middle</td>
+        </tr>
+        <tr>
+            <td>Rana</td>
+            <td>3252</td>
+            <td>Super Botom</td>
+        </tr>
+    </table>
+</body>
+
+</html>
