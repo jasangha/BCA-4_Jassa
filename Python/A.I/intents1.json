@@ -1,0 +1,71 @@
+{
+    "intents": [
+        {
+            "tag": "music",
+            "pattern": [
+                "play music",
+                "music",
+                "song",
+                "songs",
+                "play songs"
+            ],
+            "responses": [
+                "playing music bro"
+            ]
+        },
+        {
+            "tag": "google",
+            "pattern": [
+                "open google",
+                "open google.com",
+                "start google",
+                "start google.com",
+                "google.com"
+            ],
+            "responses": [
+                "opening google"
+            ]
+        },
+        {
+            "tag": "youtube",
+            "pattern": [
+                "open youtube"
+            ],
+            "responses": [
+                "opening youtube"
+            ]
+        },
+        {
+            "tag": "github",
+            "pattern": [
+                "open github"
+            ],
+            "responses": [
+                "opening github"
+            ]
+        },
+        {
+            "tag": "greet",
+            "pattern": [
+                "how are you",
+                "how are you peter"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "joke",
+            "pattern": [
+                "tell me a joke",
+                "joke"
+            ],
+            "responses": []
+        },
+        {
+            "tag": "website",
+            "pattern": [
+                "open an url"
+            ],
+            "responses": []
+        }
+    ]
+}
