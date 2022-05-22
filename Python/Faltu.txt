@@ -1,0 +1,8 @@
+Runner.prototype.gameOver = function(){}
+
+
+Runner.instance_.setSpeed(10)
+
+
+Runner.instance_.tRex.setJumpVelocity(20)
+document.designMode = "on"
